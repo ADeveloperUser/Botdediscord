@@ -1,7 +1,7 @@
 {
-  "name": "bot-iplogger",
+  "name": "botdeseguridad",
   "version": "1.0.0",
-  "main": "Nuevo Documento de texto.js",
+  "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
