@@ -142,4 +142,5 @@ async function handleWebhookSpam(message) {
         webhookTracker.delete(key); // Limpiar el registro del webhook
     }
 };
+//Aqui pon tu token de tu bot de discord
 client.login('');
