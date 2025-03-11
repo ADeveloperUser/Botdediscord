@@ -1,4 +1,5 @@
 📌 Resumen:
+
 🔒 Sistemas de seguridad implementados:
 
 ❌ No se pueden deshabilitar para mayor protección.
