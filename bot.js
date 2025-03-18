@@ -10,7 +10,7 @@ const client = new Client({
     ]
 });
 
-let logsChannelId = '1333535634845077526'; // ID del canal de logs predeterminado
+let logsChannelId = 'Ingrese el id del canal de logs aqui'; // ID del canal de logs predeterminado
 
 // Estructuras para trackear spam y acciones
 const userSpam = new Map();
